@@ -1,81 +1,29 @@
-Hi there 👋 I am Amritesh 
+# amritesh-sec.github.io
 
-Privacy & GRC Professional | Threat-Informed Compliance | Adversarial Security Thinking
+![Live](https://img.shields.io/badge/status-live-00d4aa?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/amritesh-sec/amritesh-sec.github.io?style=for-the-badge&color=00d4aa)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-00d4aa?style=for-the-badge)
+![Regions](https://img.shields.io/badge/regions-US%20%7C%20UK%20%7C%20DE%20%7C%20NL%20%7C%20Nordic-0099cc?style=for-the-badge)
 
-Currently building at the intersection of privacy compliance, security frameworks, and threat intelligence — helping organizations understand risk from both regulatory and adversarial perspectives.
+Personal cybersecurity research hub covering data protection, AI security, OSINT, blockchain, and human risk.
 
+**[→ amritesh-sec.github.io](https://amritesh-sec.github.io)**
 
+---
 
-🎯 Focus Areas
+## Research Repos
 
-- Privacy & Compliance: GDPR, CCPA, HIPAA, multi-jurisdiction data protection
-- GRC & Risk: NIST CSF, ISO 27001, threat-informed risk assessment
-- Threat Intelligence:** APT analysis, MITRE ATT&CK mapping, adversarial tradecraft
-- Offensive Security: OSINT, social engineering, vulnerability research
+| Repo | Focus | Live |
+|------|-------|------|
+| [osint-social-eng](https://github.com/amritesh-sec/osint-social-eng) | OSINT & Social Engineering | [↗](https://amritesh-sec.github.io/osint-social-eng/) |
+| [ai-security-lab](https://github.com/amritesh-sec/ai-security-lab) | AI Security & Jailbreaking | [↗](https://amritesh-sec.github.io/ai-security-lab/) |
+| [data-privacy-vault](https://github.com/amritesh-sec/data-privacy-vault) | GDPR & Data Protection | [↗](https://amritesh-sec.github.io/data-privacy-vault/) |
+| [cyber-intel-hub](https://github.com/amritesh-sec/cyber-intel-hub) | General Cybersecurity | [↗](https://amritesh-sec.github.io/cyber-intel-hub/) |
 
+## Also See
 
+- [NordVault Security](https://nordvaultsec.github.io) — Cybersecurity consulting firm
 
+---
 
-🚀 Featured Work
-
- 📋 Compliance & Risk Projects
- 
-- GDPR Compliance Assessment [https://github.com/amritesh-sec-grc/gdpr-compliance-assessment] Privacy-by-design case study with adversarial analysis
-- GRC Risk Framework [] - Threat-informed risk assessment methodology
-- Tabletop Exercise Library [https://github.com/amritesh-sec-grc/tabletop-exercise-library] - Incident response scenarios combining IR + compliance
-
-
-
- 🔍 Threat Intelligence
-- Threat Actor Analysis [https://github.com/amritesh-sec-grc/threat-actor-analysis] - APT TTPs mapped to defensive controls
-- Privacy Attack Vectors []  - How attackers exploit compliance gaps
-
-
-
- 📚 Research & Resources
-- Privacy Compliance Reference [https://github.com/amritesh-sec-grc/privacy-compliance-reference] - Active database of US/EU privacy laws and enforcement
-- Security Frameworks Guide [] - NIST, ISO, PCI DSS implementation notes
-
-
-
-
-🛠️ Current Projects
-
-- Building data encryption tool in Rust (privacy-first design)
-- Contributing to [OWASP/HackTricks/other open source]
-- Active research Data Protection 
-
-
-
-
-📝 Writing & Research
-
-- Medium: []
-- Research Notes: [ Notion ]
-- CTF & Labs: []
-
-
-
-
-🤝 Open Source Contributions
-- [Project Name]- []
-- [Project Name] - []
-- More contributions → []
-
-
-
-
-
-🌐 Connect
-
-- LinkedIn: [] 
-- Medium: [] 
-- HackTheBox: []
-- Email: []
-
-
- 
- ⚖️ Note on Projects
-
-All case studies and demonstrations use fictional scenarios, company names, and data to maintain privacy and avoid real-world conflicts. These projects are educational demonstrations of methodology, not actual client work.
-
+© Amritesh. [CC BY-NC-ND 4.0](https://amritesh-sec.github.io/license/) · [Disclaimer](https://amritesh-sec.github.io/disclaimer/)
