@@ -3,7 +3,7 @@
 ![Live](https://img.shields.io/badge/status-live-00d4aa?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/amritesh-sec/amritesh-sec.github.io?style=for-the-badge&color=00d4aa)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-00d4aa?style=for-the-badge)
-![Regions](https://img.shields.io/badge/regions-US%20%7C%20UK%20%7C%20Europe%20%7C%20NL%20%7C%20Nordic-0099cc?style=for-the-badge)
+![Regions](https://img.shields.io/badge/regions-US%20%7C%20UK%20%7C%20Europe%20%7C%20Canada%20%7C%20Nordic-0099cc?style=for-the-badge)
 
 
 Personal cybersecurity research hub covering data protection, AI security, OSINT, blockchain, and human risk.
