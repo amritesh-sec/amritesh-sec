@@ -20,10 +20,6 @@ Personal cybersecurity research hub covering data protection, AI security, OSINT
 | [data-privacy-vault](https://github.com/amritesh-sec/data-privacy-vault) | GDPR & Data Protection | [↗](https://amritesh-sec.github.io/data-privacy-vault/) |
 | [cyber-intel-hub](https://github.com/amritesh-sec/cyber-intel-hub) | General Cybersecurity | [↗](https://amritesh-sec.github.io/cyber-intel-hub/) |
 
-## Also See
 
-- [NordVault Security](https://nordvaultsec.github.io) — Cybersecurity consulting firm
-
----
 
 © Amritesh. [CC BY-NC-ND 4.0](https://amritesh-sec.github.io/license/) · [Disclaimer](https://amritesh-sec.github.io/disclaimer/)
